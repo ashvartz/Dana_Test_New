@@ -3,6 +3,9 @@ Local1 branch
 
 Alex updated this at 5:50pm
 
+<<<<<<< HEAD
 New Gil 
 
 999999999999
+=======
+New Gil Server Update
